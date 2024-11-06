@@ -9,10 +9,10 @@
       <img src="https://img.shields.io/badge/WEB3-FB6022?logo=simkl&logoColor=fff&style=for-the-badge" alt="Mirolab Badge"" />
     </a>
     <a href="#">
-      <img src="https://img.shields.io/badge/SUPPORT-FB6022?logo=simkl&logoColor=fff&style=for-the-badge" alt="Mirolab Badge"" />
+      <img src="https://img.shields.io/badge/ARBITRAGE-FB6022?logo=simkl&logoColor=fff&style=for-the-badge" alt="Mirolab Badge"" />
     </a>
     <a href="#">
-      <img src="https://img.shields.io/badge/SUPPORT-FB6022?logo=simkl&logoColor=fff&style=for-the-badge" alt="Mirolab Badge"" />
+      <img src="https://img.shields.io/badge/TRADING-FB6022?logo=simkl&logoColor=fff&style=for-the-badge" alt="Mirolab Badge"" />
     </a>
   </p>
 </div>
