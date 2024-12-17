@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/mirolabgroup/.github/blob/d97ce91c41d0dd4296cb853e3ad9da6254d50199/profile/logo2.png" alt="banner"/>
+  <img src="https://github.com/mirolabgroup/.github/blob/720ef91983ca4b8eaa3e0e887bd2c57c8be3a56d/profile/LOGO3.png" alt="banner"/>
 </br>
 </br>
 </div>
