@@ -12,7 +12,7 @@
       <img src="https://img.shields.io/badge/STAKING-FB6022?logo=simkl&logoColor=fff&style=for-the-badge" alt="Mirolab Badge"" />
     </a>
     <a href="#">
-      <img src="https://img.shields.io/badge/FARMING-FB6022?logo=amazondynamodbl&logoColor=fff&style=for-the-badge" alt="Mirolab Badge"" />
+      <img src="https://img.shields.io/badge/FARMING-FB6022?logo=amazondynamol&logoColor=fff&style=for-the-badge" alt="Mirolab Badge"" />
     </a>
     <a href="#">
       <img src="https://img.shields.io/badge/OPTIONS-FB6022?logo=simkl&logoColor=fff&style=for-the-badge" alt="Mirolab Badge"" />
