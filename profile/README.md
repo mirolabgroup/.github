@@ -18,7 +18,7 @@
       <img src="https://img.shields.io/badge/OPTIONS-FB6022?logo=anaconda&logoColor=fff&style=for-the-badge" alt="Mirolab Badge"" />
     </a>
     <a href="#">
-      <img src="https://img.shields.io/badge/DUALINVEST-FB6022?logo=anaconda&logoColor=fff&style=for-the-badge" alt="Mirolab Badge"" />
+      <img src="https://img.shields.io/badge/DUALINVEST-FB6022?logo=MasterCard&logoColor=fff&style=for-the-badge" alt="Mirolab Badge"" />
     </a>
   </p>
 </div>
